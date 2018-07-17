@@ -11,13 +11,13 @@ I got datas from Google by using this method'https://www.pyimagesearch.com/2017/
 There is a sample of data per sports.
 
 ### basketball
-![basketball](./baketball_sample.png)
+<img src="./baketball_sample.png">
 
 ### baseball
-![basetball](./baseball_sample.png)
+<img src="./baseball_sample.png">
 
 ### soccer
-![soccer](./soccer_sample.png)
+<img src="./soccer_sample.png">
 
 ### golf
-![golf](./golf_sample.png) 
+<img src="./golf_sample.png">
