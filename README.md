@@ -11,7 +11,7 @@ I got datas from Google by using this method'https://www.pyimagesearch.com/2017/
 There is a sample of data per sports.
 
 ### basketball
-<img src="./baketball_sample.png">
+<img src="./baketball_sample.png"></img>
 
 ### baseball
 <img src="./baseball_sample.png">
