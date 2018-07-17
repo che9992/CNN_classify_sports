@@ -8,6 +8,8 @@ First, I needed sports data, and I chose sports golf, baseball, soccer, and bask
 
 I got datas from Google by using this method'https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/'
 
+I uploaded the data to kaggle, you can download it 'https://www.kaggle.com/ch2y0ung/classify-sports'
+
 There is a sample of data per sports.
 
 ### basketball
