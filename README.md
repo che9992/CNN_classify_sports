@@ -20,4 +20,4 @@ There is a sample of data per sports.
 ![soccer](./soccer_sample.png)
 
 ### golf
-![golf](./golf_sample.png)
+![golf](./golf_sample.png) 
